@@ -1,0 +1,17 @@
+li{
+    list-style: none;
+    text-align: left;
+}
+
+ul {
+    border: solid 2px blue;
+    padding: 20px;
+    margin-top: 0px;
+}
+
+.header{
+    background-color: blue;
+    margin-bottom: 0px;
+    color: white;
+}
+

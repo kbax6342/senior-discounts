@@ -1,0 +1,10 @@
+table {
+    width: 100%;
+    table-layout: fixed;
+    border: solid 1px rgb(179, 174, 174);
+}
+
+table td {
+    height: 70px;
+    overflow: hidden;
+}

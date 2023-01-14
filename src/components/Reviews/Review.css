@@ -1,0 +1,12 @@
+.review-image{
+    border-radius: 75px;
+    height: 150px;
+}
+
+.review-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+  
+}
