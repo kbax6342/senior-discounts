@@ -1,0 +1,12 @@
+.li:hover{
+  background-color: gainsboro;
+    
+}
+
+.nav{
+    border-bottom: solid 1px gray;
+}
+
+li:active{
+    background-color: gainsboro;
+}

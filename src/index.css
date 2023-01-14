@@ -7,6 +7,7 @@
 
 html{
   scroll-behavior: smooth;
+  height: 100%;
 }
 
 body {
@@ -25,4 +26,8 @@ code {
 
 .mulish{
   font-family: 'Mulish', sans-serif;
+}
+
+.space{
+  min-height: 100%;
 }

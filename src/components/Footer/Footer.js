@@ -22,8 +22,7 @@ function Footer() {
            <li> <Link>Privacy Policy</Link></li>
            <li><Link>Terms of Use</Link></li>
            <li><Link>Accessiblity</Link></li>
-           <li><Link>Do Not Sell/Share My Personal Information</Link></li>
-           <li> <Link>Limit the Use of MY Sensitive Personal Infomation</Link></li>
+          
         </nav>
         <nav className='footer-nav'>
             <li><Link>Research</Link></li>
